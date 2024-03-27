@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋Hi there! <br><br>My name is Erfan Edalati.<br><br>I am a web developer in the Back End area.<br>
+👋Hi there! <br><br>I have 3 years of experience in programming and server security. I have been playing with computers since I was a child, then I became more interested in database design and server security, and now I am here. I worked with some companies and did their activities and I can help you in this area.
+In programming, my main area is database and API design, but I am also proficient in other areas and I can help you in these areas.<br>
 
 
 ## 🌐 Socials:
